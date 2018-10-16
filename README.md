@@ -1,4 +1,4 @@
-# NEMISIG Home
+# NEMISIG
 
-This is the main landing page for the Northeast Music Informatics Special Interest Group (NEMISIG).
+Main landing page for the Northeast Music Informatics Special Interest Group (NEMISIG).
 
