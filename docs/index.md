@@ -9,7 +9,7 @@ Recent incarnations of NEMISIG have also featured an open "jam session," since w
 
 NEMISIG gathers researchers from the Northeastern United States and has previously been hosted at a number of locations in the past:
 
-* [2019](http://nemisig2019.nemisig.org) - TBD!
+* [2019](http://nemisig2019.nemisig.org) - Brooklyn College, NY
 * [2018](http://nemisig2018.nemisig.org) - Brown University, RI
 * [2017](http://nemisig.wixsite.com/2017) - University of Rochester, NY
 * [2016](http://www.met-lab.org/nemisig2016/) - Drexel University, PA
