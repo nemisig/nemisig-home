@@ -9,7 +9,8 @@ Recent incarnations of NEMISIG have also featured an open "jam session," since w
 
 NEMISIG gathers researchers from the Northeastern United States and has previously been hosted at a number of locations in the past:
 
-* 2020 - Smith College, MA
+* [2022](http://nemisig2022.nemisig.org) - New Jersey Institute of Technology, NJ
+* [2020](http://nemisig2020.nemisig.org) - Smith College, MA
 * [2019](http://nemisig2019.nemisig.org) - Brooklyn College, NY
 * [2018](http://nemisig2018.nemisig.org) - Brown University, RI
 * [2017](http://nemisig.wixsite.com/2017) - University of Rochester, NY
