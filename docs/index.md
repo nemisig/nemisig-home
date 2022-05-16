@@ -4,12 +4,13 @@ For those familiar with the International Society of Music Information Retrieval
 
 Recent incarnations of NEMISIG have also featured an open "jam session," since we're in it for the music, after all.
 
+## Upcoming Workshops
+* [2022](http://nemisig2022.nemisig.org) - New Jersey Institute of Technology, NJ
 
 ## Past Workshops
 
 NEMISIG gathers researchers from the Northeastern United States and has previously been hosted at a number of locations in the past:
 
-* [2022](http://nemisig2022.nemisig.org) - New Jersey Institute of Technology, NJ
 * [2020](http://nemisig2020.nemisig.org) - Smith College, MA
 * [2019](http://nemisig2019.nemisig.org) - Brooklyn College, NY
 * [2018](http://nemisig2018.nemisig.org) - Brown University, RI
