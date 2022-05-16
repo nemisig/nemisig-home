@@ -4,7 +4,7 @@ For those familiar with the International Society of Music Information Retrieval
 
 Recent incarnations of NEMISIG have also featured an open "jam session," since we're in it for the music, after all.
 
-## Upcoming Workshops
+## Upcoming Workshop
 * [2022](http://nemisig2022.nemisig.org) - New Jersey Institute of Technology, NJ
 
 ## Past Workshops
