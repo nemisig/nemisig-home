@@ -5,7 +5,7 @@ For those familiar with the International Society of Music Information Retrieval
 Recent incarnations of NEMISIG have also featured an open "jam session," since we're in it for the music, after all.
 
 ## Upcoming Workshop
-* [2024](http://2024.nemisig.net) - Ithaca College, NY
+* [2024](https://2024.nemisig.net) - Ithaca College, NY
 ## Past Workshops
 
 NEMISIG gathers researchers from the Northeastern United States and has previously been hosted at a number of locations in the past:
