@@ -9,19 +9,18 @@ Recent incarnations of NEMISIG have also featured an open "NEMIJam session," sin
 ## Past Workshops
 
 NEMISIG gathers researchers from the Northeastern United States and has previously been hosted at a number of locations in the past:
-* [2022](http://nemisig2022.nemisig.org) - New Jersey Institute of Technology, NJ
-* [2020](http://nemisig2020.nemisig.org) - Smith College, MA
-* [2019](http://nemisig2019.nemisig.org) - Brooklyn College, NY
-* [2018](http://nemisig2018.nemisig.org) - Brown University, RI
+* [2022](http://2022.nemisig.net) - New Jersey Institute of Technology, NJ
+* [2020](http://2020.nemisig.net) - Smith College, MA
+* [2019](http://2019.nemisig.net) - Brooklyn College, NY
+* [2018](http://2018.nemisig.net) - Brown University, RI
 * [2017](http://nemisig.wixsite.com/2017) - University of Rochester, NY
 * [2016](http://www.met-lab.org/nemisig2016/) - Drexel University, PA
-* [2015](http://jimi.ithaca.edu/nemisig/) - Ithaca College, NY
-* [2014](https://labrosa.ee.columbia.edu/nemisig2014/) - Columbia University, NY
+* [2015](https://2024.nemisig.net) - Ithaca College, NY
+* [2014](http://labrosa.ee.columbia.edu/nemisig2014/) - Columbia University, NY
 * 2013 - The EchoNest, MA
 * [2012](http://digitalmusics.dartmouth.edu/~nemisig/) - Dartmouth College, NH
 * 2011 - Drexel University, PA
 * 2010 - New York University, NY
-* 2009 - ...?
 * 2008 - Columbia University, NY
 
 
