@@ -2,7 +2,7 @@ NEMISIG (North East Music Information Special Interest Group) is a yearly inform
 
 For those familiar with the International Society of Music Information Retrieval ([ISMIR](http://ismir.net)), NEMISIG often serves as a mini-conference to informally discuss research progress a few months in advance of the submission deadline.
 
-Recent incarnations of NEMISIG have also featured an open "jam session," since we're in it for the music, after all.
+Recent incarnations of NEMISIG have also featured an open "NEMIJam session," since we're in it for the music, after all.
 
 ## Upcoming Workshop
 * [2024](https://2024.nemisig.net) - Ithaca College, NY
